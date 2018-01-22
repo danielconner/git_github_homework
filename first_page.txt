@@ -1,1 +1,4 @@
 this is my first page of the git homework
+
+.gitignore is a directory which tells git which files to ignore
+this is used for files you do not wish to share
